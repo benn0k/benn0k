@@ -1,4 +1,3 @@
-
 😔 My Name is Ryan. Welcome to my **code.zone** 🤠
 ============================================
 
@@ -19,7 +18,7 @@
 
 ### Languages and Tools:
 
-- HTML
-- CSS
-- JavaScript
-- SASS
+![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![SASS](https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png)
