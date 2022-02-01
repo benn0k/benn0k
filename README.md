@@ -1,7 +1,7 @@
 😔 My Name is Ryan. Welcome to my **code.zone** 🤠
 ============================================
 
-> ### 'A Hobby developer from Fargo, USA' - Me (Ryan) to you (Reader)
+> ### 'A Hobby developer from Fargo, USA' - Me (Ryan) to you (Reader). I write JavaScript, Vue, and CSS.
 
 #### Things I love:
 
@@ -19,16 +19,3 @@
 
 \- [**REDACTED**] a [ **BIG SECRET**] for [**SOMETHING**]
 
-#### Languages and Tools:
-
-\- JavaScript
-
-\- HTML
-
-\- CSS
-
-#### 'Whatcha' learnin?'
-
-\- SASS
-
-\- Vue 3
