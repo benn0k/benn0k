@@ -15,7 +15,7 @@
 
 #### Things I'm Working on: 
 
-\- ***bennok.zone***  - '*One day I'll finish my portfolio, I swear it*'  -**Ryan, to himself** - *attrib. Jan 26th, 2022*
+\- ***bennok.zone***  - '*One day I'll finish my portfolio, I swear it*'
 
 \- [**REDACTED**] a [ **BIG SECRET**] for [**SOMETHING**]
 
