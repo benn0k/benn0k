@@ -2,7 +2,7 @@
 ============================================
 
 > ### 'A Hobby developer from Fargo, USA' - Me (Ryan) to you (Reader). 
-I write JavaScript, Vue, and CSS.
+
 #### Things I love:
 
 \- A perfectly placed glass of night water, perfect a 3AM thirst 🤽 
