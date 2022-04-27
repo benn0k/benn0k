@@ -17,5 +17,4 @@
 
 \- ***bennok.zone***  - '*One day I'll finish my portfolio, I swear it*'
 
-\- [**REDACTED**] a [ **BIG SECRET**] for [**SOMETHING**]
 
